@@ -4,17 +4,23 @@
 
 Doe het web het een beetje goed?
 
-## Lyst.com
+## Landmarkt.nl
 
-Welke website heb je getest? Beschrijf de website die je hebt geanalyseerd en de datum dat je hebt getest. Voeg de url en een screenshot van de website toe.  
+Ik heb de website van mijn oude werkgever geanalyseerd op 15/04/2024.
+Zie hier de website: [landmarkt](www.landmarkt.nl).
 
-Ik en Koen testen Lyst.com. Dit is een website waar je een overzicht van alle kledingwebsites hebt. Je word via deze site doorgestuurd naar de website waar je het kleding daadwerkelijk kan kopen. Een soort affiliate marketing model. 
+<img width="700" alt="Screenshot 2024-04-15 at 17 34 57" src="https://github.com/Ryank2004/-Sprint-9-break-the-web/assets/25478764/cb2e0010-07f2-49b5-8966-1a3bcbd0ff24">
 
-Toon een screenshot van de performance test.
+Dit is een website voor de biologische supermarkt Landmarkt. Het zit in een oude kas en is eigenlijk een soort van overdekte markt. Veel producten komen uit de buurt en alles is van hoge kwaliteit. Ik heb gewerkt in de keuken bij Landmarkt Aan Tafel. Ze hebben een geheel restaurant aan de achterkant van het gebouw. Hier kan je bestellen van het menu of dagspecialkaart.
 
-Desktop:
+Ik vond altijd dat hun website er erg gelikt uitzag, maar hoe goed is de performance? Dat ga ik uitzoeken.
+
+### Desktop:
+
 <img width="700" alt="Screenshot 2024-04-15 at 17 19 36" src="https://github.com/Ryank2004/-Sprint-9-break-the-web/assets/25478764/3e371c61-ba7a-4fd3-b0cd-ae6bdac02a42">
-Mobiel:
+
+### Mobiel:
+
 <img width="700" alt="Screenshot 2024-04-15 at 17 20 43" src="https://github.com/Ryank2004/-Sprint-9-break-the-web/assets/25478764/c2b5e099-8f47-4fa8-b478-26816918a034">
 
 Schrijf een samenvatting van de testbevindingen en verwijs naar je Wiki voor een uitgebreide rapportage.
