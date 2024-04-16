@@ -23,7 +23,10 @@ Ik vond altijd dat hun website er erg gelikt uitzag, maar hoe goed is de perform
 
 <img width="700" alt="Screenshot 2024-04-15 at 17 20 43" src="https://github.com/Ryank2004/-Sprint-9-break-the-web/assets/25478764/c2b5e099-8f47-4fa8-b478-26816918a034">
 
-Schrijf een samenvatting van de testbevindingen en verwijs naar je Wiki voor een uitgebreide rapportage.
+### Testen
+
+Ik test op deze website op de performance en internetsnelheid, het gebruik door mensen die kleurenblind zijn en die geen muis of trackpad kunnen gebruiken. 
+De performance tussen desktop en mobiel verschilt heel erg en de website valt niet te navigeren zonder muis/trackpad. Lees alle testen en uitkomsten in mijn wiki.
 
 
 ## Licentie
